@@ -11,14 +11,17 @@ Projeto do Vídeo Q0962 Série **_Matatona Maker_** powered by **_Petrobras_**
 </div>
 
 
-Conheça nossas Redes Sociais:
+**Conheça nossas Redes Sociais:**
 
 <img src="https://img.icons8.com/color/50/youtube-play.png" width="20px" /> [YouTube](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw/)
 
-![Logo Instagram](https://img.icons8.com/color/50/instagram-new--v1.png)
-[Instagram](https://www.instagram.com/brincandocomideias/)
+<img src="https://img.icons8.com/color/50/instagram-new--v1.png" width="20px" /> [Instagram](https://www.instagram.com/brincandocomideias/)
 
-![Logo Site](https://img.icons8.com/color/50/domain--v1.png) 
-[Site OFicial](https://www.brincandocomideias.com/)
+<img src="https://img.icons8.com/color/50/facebook-circled--v1.png" width="20px" /> [Facebook](https://www.facebook.com/paginaBrincandoComIdeias/)
+
+<img src="https://img.icons8.com/color/50/domain--v1.png" width="20px" /> [Site OFicial](https://www.brincandocomideias.com/)
+
+
+
 
 
