@@ -1,9 +1,12 @@
 # Q0962
-_Controle Remoto com Esp32 (Emissor InfraVermelho) #_ 
-Projeto do Vídeo Q0962 Série Matatona Maker powered by Petrobras
+##**Controle Remoto com Esp32 (Emissor InfraVermelho)** 
+Projeto do Vídeo Q0962 Série **_Matatona Maker_** powered by **_Petrobras_**
 
-Assista o vídeo [CLIQUE AQUI](https://youtu.be/uLKScwhyf8E)
+:video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/uLKScwhyf8E)
 ![Capa Q962](https://i9.ytimg.com/vi/uLKScwhyf8E/maxresdefault.jpg?v=636e4b17&sqp=CNT39JsG&rs=AOn4CLAKUGiDNpAh5cLk1AgDGYZuNWRJog)
 
 Conheça nossas Redes Sociais:
-![LogoYoutube](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.vexels.com%2Fpng-svg%2Fprevisualizar%2F157679%2Flogo-do-bot-o-de-reprodu-o-do-youtube&psig=AOvVaw0VmIuDlmMeGhGhveowxLhP&ust=1669238610304000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJj5wsXcwvsCFQAAAAAdAAAAABA6) [YouTube](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw/)
+![Logo YouTube](https://icons8.com.br/icon/19318/reproduzir-youtube) [YouTube](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw/)
+![Logo Instagram](https://icons8.com.br/icon/Xy10Jcu1L2Su/instagram) [Instagram](https://www.instagram.com/brincandocomideias/)
+![Logo Facebook](https://icons8.com.br/icon/uLWV5A9vXIPu/facebook-novo) [Facebook](https://www.brincandocomideias.com/)
+![Logo Site](https://icons8.com.br/icon/63766/globo) [Site OFicial](https://www.brincandocomideias.com/)
