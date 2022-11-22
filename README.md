@@ -6,7 +6,7 @@ Projeto do Vídeo Q0962 Série **_Matatona Maker_** powered by **_Petrobras_**
 ![Capa Q962](https://i9.ytimg.com/vi/uLKScwhyf8E/maxresdefault.jpg?v=636e4b17&sqp=CNT39JsG&rs=AOn4CLAKUGiDNpAh5cLk1AgDGYZuNWRJog)
 
 <div align="center">
-<img src="[https://desblogada.files.wordpress.co...](https://i9.ytimg.com/vi/uLKScwhyf8E/maxresdefault.jpg?v=636e4b17&sqp=CNT39JsG&rs=AOn4CLAKUGiDNpAh5cLk1AgDGYZuNWRJog)" width="100px" />
+<img src="https://i9.ytimg.com/vi/uLKScwhyf8E/maxresdefault.jpg?v=636e4b17&sqp=CNT39JsG&rs=AOn4CLAKUGiDNpAh5cLk1AgDGYZuNWRJog" width="100px" />
 </div>
 
 
