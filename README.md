@@ -6,11 +6,14 @@ Projeto do Vídeo Q0962 Série **_Matatona Maker_** powered by **_Petrobras_**
 ![Capa Q962](https://i9.ytimg.com/vi/uLKScwhyf8E/maxresdefault.jpg?v=636e4b17&sqp=CNT39JsG&rs=AOn4CLAKUGiDNpAh5cLk1AgDGYZuNWRJog)
 
 <div align="center">
-<img src="https://i9.ytimg.com/vi/uLKScwhyf8E/maxresdefault.jpg?v=636e4b17&sqp=CNT39JsG&rs=AOn4CLAKUGiDNpAh5cLk1AgDGYZuNWRJog" width="100px" />
+<img src="https://i9.ytimg.com/vi/uLKScwhyf8E/maxresdefault.jpg?v=636e4b17&sqp=CNT39JsG&rs=AOn4CLAKUGiDNpAh5cLk1AgDGYZuNWRJog" width="900px" />
 </div>
 
 
 Conheça nossas Redes Sociais:
+
+<img src="https://img.icons8.com/color/50/youtube-play.png" width="50px" />
+[YouTube](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw/)
 
 ![Logo YouTube](https://img.icons8.com/color/50/youtube-play.png)
 [YouTube](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw/)
