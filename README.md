@@ -6,7 +6,7 @@ Projeto do Vídeo Q0962 Série **_Matatona Maker_** powered by **_Petrobras_**
 
 :video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/uLKScwhyf8E)
 
-<img src="https://i9.ytimg.com/vi/uLKScwhyf8E/maxresdefault.jpg?v=636e4b17&sqp=CNT39JsG&rs=AOn4CLAKUGiDNpAh5cLk1AgDGYZuNWRJog" width="900px" />
+<img src="https://i9.ytimg.com/vi/uLKScwhyf8E/maxresdefault.jpg?v=636e4b17&sqp=CKyf-psG&rs=AOn4CLCWFP3LYrRuTD4hl21SW5B6A83sKQ" width="900px" />
 
 
 - Confira esse e outros projetos de Esp32 assistindo a Playlist [(Clique Aqui)](https://youtube.com/playlist?list=PL7CjOZ3q8fMdgvaq988L97y05Gb219fLd)
