@@ -18,7 +18,7 @@ Projeto do Vídeo Q0962 Série **_Maratona Maker_** powered by **_Petrobras_**
 
 <img src="https://img.icons8.com/color/50/youtube-play.png" width="20px" /> [YouTube](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw/)
 
-<img src="https://img.icons8.com/color/50/instagram-new--v1.png" width="20px" /> [Instagram](https://www.instagram.com/brincandocomideias/)
+<![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) width="20px" /> [Instagram](https://www.instagram.com/brincandocomideias/)
 
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) [Facebook](https://www.facebook.com/paginaBrincandoComIdeias/)
 
