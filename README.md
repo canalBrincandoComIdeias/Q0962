@@ -22,7 +22,7 @@ Projeto do Vídeo Q0962 Série **_Maratona Maker_** powered by **_Petrobras_**
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/paginaBrincandoComIdeias/)
 
-[![Siteoficial](https://img.shields.io/badge/🌐-SITE%20OFICIAL-green)](https://www.brincandocomideias.com/)
+[![Siteoficial](https://img.shields.io/badge/🌐-SITE%20OFICIAL-brightgreen)](https://www.brincandocomideias.com/)
 
 
 
