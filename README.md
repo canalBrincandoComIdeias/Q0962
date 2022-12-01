@@ -16,13 +16,14 @@ Projeto do Vídeo Q0962 Série **_Maratona Maker_** powered by **_Petrobras_**
 
 **Conheça nossas Redes Sociais:**
 
-<img src="https://img.icons8.com/color/50/youtube-play.png" width="20px" /> [YouTube](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)  ](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/brincandocomideias/)
 
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) [Facebook](https://www.facebook.com/paginaBrincandoComIdeias/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/paginaBrincandoComIdeias/)
 
-<img src="https://img.icons8.com/color/50/domain--v1.png" width="20px" /> [Site OFicial](https://www.brincandocomideias.com/)
+[![Siteoficial](https://img.shields.io/badge/🌐-SITE%20OFICIAL-green)](https://www.brincandocomideias.com/)
+
 
 
 
